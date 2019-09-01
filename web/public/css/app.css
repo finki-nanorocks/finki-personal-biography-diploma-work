@@ -1,0 +1,13 @@
+h1, h2, h3, h4, h5, p, strong, small, ul, li, button {
+    font-family: 'Thasadith', sans-serif;
+}
+
+#logout-form {
+    display: none;
+}
+
+#link-subjects {
+    position: absolute;
+    top: -7px;
+    font-size: 24px;
+}
